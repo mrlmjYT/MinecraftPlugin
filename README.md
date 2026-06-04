@@ -4,13 +4,13 @@ A lightweight Minecraft plugin designed for Spigot/Paper servers. It provides es
 
 ---
 
-## 🚀 Features
+##  Features
 
-* **Custom Welcome Messages:** Greets players warmly when they request help.
-* **Essential Utilities:** Easy access to the server spawn point.
+* Help Command
+* Easy access to the server spawn point.
 * **OP Custom Gear:** Grants players powerful custom items like the Laser Pickaxe and status-inflicting weapons.
 
-## 📜 Commands & Usage
+## Commands & Usage
 
 Players can use the following commands in-game. 
 
@@ -24,7 +24,7 @@ Players can use the following commands in-game.
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 To install this plugin on your Minecraft server:
 
@@ -33,7 +33,7 @@ To install this plugin on your Minecraft server:
 3. Drop the `.jar` file into the folder.
 4. Restart or reload your server (`/reload confirm`).
 
-## 💻 Code Overview (Help Command Example)
+##  Code Overview (Help Command Example)
 
 The in-game help menu uses standard chat formatting colors to stay neat and readable:
 
