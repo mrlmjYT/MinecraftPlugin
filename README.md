@@ -2,7 +2,6 @@
 
 A lightweight Minecraft plugin designed for Spigot/Paper servers. It provides essential player utilities and introduces unique, overpowered (OP) custom weapons and tools to enhance the survival or PvP experience.
 
----
 
 ##  Features
 
@@ -22,7 +21,6 @@ Players can use the following commands in-game.
 | `/poisonblade` | Gives a custom sword that inflicts the **Poison** effect on hit enemies. | Combat / PvP Weapon |
 | `/magicsword` | Gives the player a highly powerful, enchanted Magic Sword. | Overpowered Weapon |
 
----
 
 ##  Installation
 
