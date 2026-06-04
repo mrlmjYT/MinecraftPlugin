@@ -1,0 +1,28 @@
+name: MyCoolPlugin
+version: '1.0-SNAPSHOT'
+
+main: Cool.myCoolPlugin.MyCoolPlugin
+api-version: '26.1.2'
+load: POSTWORLD
+
+commands:
+  help:
+    description: gives help for the game
+  spawn:
+    description: teleports u to the spawn
+  laserpickaxe:
+    description: gives you the laser Pickaxe
+  magicsword:
+    description: gives you the magic Sword
+  poisonblade:
+    description: gives you the poison blade
+  commoncase:
+    description: gives you a common case
+  laseraxe:
+    description: gives you the laser axe
+  tankarmour:
+    description: gives you the entire Tank armour
+  kit:
+    description: choose kits
+  setrank:
+    description: Admin can set ranks
