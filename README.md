@@ -26,7 +26,7 @@ Players can use the following commands in-game.
 
 To install this plugin on your Minecraft server:
 
-1. Download the `.jar` file of the plugin.
+1. Download the latest `.jar` file from the [Releases](https://github.com/YourUsername/YourRepo/releases) page.
 2. Navigate to your server's root directory and open the `plugins/` folder.
 3. Drop the `.jar` file into the folder.
 4. Restart or reload your server (`/reload confirm`).
