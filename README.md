@@ -12,7 +12,7 @@ This is my first minecraft plugin it got a lot of features and custom items
 
 Players can use the following commands in-game. 
 
-| :--- | :--- | :--- |
+
 | `/help` | Displays the server welcome message and command list. | In-game information menu |
 | `/spawn` | Teleports the player instantly to the server spawn. | Teleportation utility |
 | `/laserpickaxe` | Gives the player an overpowered, high-efficiency Pickaxe. | Overpowered Tool |
