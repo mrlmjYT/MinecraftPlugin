@@ -1,19 +1,17 @@
-# Custom Server Utilities & Weapons
+# My first Minecraft Plugin
 
-A lightweight Minecraft plugin designed for Spigot/Paper servers. It provides essential player utilities and introduces unique, overpowered (OP) custom weapons and tools to enhance the survival or PvP experience.
+This is my first minecraft plugin it got a lot of features and custom items 
 
 
 ##  Features
 
-* Help Command
-* Easy access to the server spawn point.
-* **OP Custom Gear:** Grants players powerful custom items like the Laser Pickaxe and status-inflicting weapons.
+* custom Commands
+* **OP Custom Gear:** Gives Player really Op Custom Armour
 
 ## Commands & Usage
 
 Players can use the following commands in-game. 
 
-| Command | Description | Base Item / Effect |
 | :--- | :--- | :--- |
 | `/help` | Displays the server welcome message and command list. | In-game information menu |
 | `/spawn` | Teleports the player instantly to the server spawn. | Teleportation utility |
@@ -31,9 +29,6 @@ To install this plugin on your Minecraft server:
 3. Drop the `.jar` file into the folder.
 4. Restart or reload your server (`/reload confirm`).
 
-##  Code Overview (Help Command Example)
-
-The in-game help menu uses standard chat formatting colors to stay neat and readable:
 
 ```java
 sender.sendMessage("Hello Player.");
